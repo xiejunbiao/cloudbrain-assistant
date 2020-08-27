@@ -1,0 +1,1 @@
+Python bigdata_assis_mainTest.py --conf D:\hisense\projects\voiceassistant\analyse\utils\config114.ini
